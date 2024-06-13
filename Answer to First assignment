@@ -1,0 +1,77 @@
+Software engineering is an organized application of engineering principles,methods and tools to the development and maintenance of high quality system software.
+
+Software engineering deals with the logical application of certain specifications in engineering for the development of high quality products. While SDLC is a series of steps which must be followed in order to deliver high quality software product
+
+ 3. There are seven phases in SDLC . Which are *Requirements  *Design *Implementation *Testing *Deployment *Maintenance . 
+
+¶Agile is  an example of Software development methodologies which is a cycle of planning preferably used for long term projects. 
+
+ ¶Waterfall is also an example of Software development methodologies which involves a sequence of steps which is preferably used for short termed projects.
+
+4. Comparison: 1.Agile and waterfall are flexible to change    
+2. They both support customer interaction.             3.They follow series of steps.      
+             
+Difference: ¶Agile uses cycle planning While Waterfall uses linear and sequential planning which implies that a process must be finished before the next .           ¶Agile can adapt to change at any time while waterfall isn't adaptable to frequent changes .            
+¶Agile accept time to time customer review which is preferable to meet with customer's need while   waterfall limits customer involvement .
+
+*The key difference is how  they handle projects.
+
+*Agile would be used for long term projects
+Waterfall would be used for short term projects .
+
+5.Requirement engineering is  the fault finding phase in software development process that requires gathering analyzing and documenting of requirement in an orderly manner. 
+
+*It's process are
+Elicitation 
+Analysis
+Specification
+Validation
+Management
+
+* The importance of requirement engineering in software development process :It ensures proper understanding            2. It helps reduces risk                             
+3. It facilitate effective communication        4. It saves time                
+5. It is economical
+
+* Software principle, KISS principle (keep it simple, stupid, Modularity, law of demeter, design by contract , avoid premature optimization.
+*
+6.Modularity in software engineering is the process of dividing a software system into different, independent and interchangeable modules.
+*It improves maintainability and scalability by improving readability, enabling planned performance, secluding change, allowing upgrading, making testing easier.
+*Testing in software engineering is the process of getting the measure of a system application and verifying in order to meet a specific requirement and better functionality.
+
+ 7.Unit Testing deals with individual component
+*Integration testing ensures different components works coporatively
+*System Testing does the verification of integration testing to ensure proper functionality.
+*Acceptance software helps to confirm that the software meets the specific requirement and ready for use.
+*Testing is crucial in software development because it enhances quality, reliability, and functionality and helps avoid too many errors,complaints and irrelevant things.
+
+8. Version control system is a tool used to manage changes in  source code with time.     *It enables collaboration and teamwork.  *Conflict resolution *Documentation to improve communication. 
+   ¶Git : Collaboration, security flexibile branchings,access to a full copy of repository.   
+¶Subversion:Ease of use , access control, Accurate in handling Binary files.         ¶perforce: scalability, visual tools, performance 
+¶Bazaar: user friendly,cross platform,extensible. 
+¶Concurrent version system: Repository is centralized, simple access control.
+
+
+
+9.Software project management can be defined as the planning, organization and keeping abreast software development project in such a way that it is achieved timely , within budget and in standard quality.
+
+10.The project manager keep abreast of the entire life cycle of the project, ensuring it works towards the objective, within budget and timely
+
+11.*Project planning.   *Team management      *Risk management.      *Project execution.      *Project closure               ¶Technical complexity, team management,change management, time management 
+
+Software maintenance is also a fault finding phase in the software development life cycle which involves enhancing and updating of software after release .
+
+ 12. Software engineering aims at software being up to date.
+corrective maintenance, adaptive maintenance , preventive maintenance 
+¶Bug fixing ,  to improve software reliability, Security tightening,it enhances long term cost saving
+
+Ethical consideration deals with the decision and action taken to ensure software development and promote ethical standards
+
+*Understand ethical principle. *adopt ethical framework *prioritize user privacy and data protection *seek guidance and mentorship     *stay informed and motivated
+Software engineering aims at software being up to date.corrective maintenance, adaptive maintenance , preventive maintenance 
+¶Bug fixing ,  to improve software reliability, Security tightening,it enhances long term cost saving
+
+13.Ethical consideration deals with the decision and action taken to ensure software development and promote ethical standards.
+
+14.Bugs and defect, security vulnerability, maintainability and technical debt .User experience issue 
+
+*Understand ethical principle. *adopt ethical framework *prioritize user privacy and data protection *seek guidance and mentorship     *stay informed and motivated
